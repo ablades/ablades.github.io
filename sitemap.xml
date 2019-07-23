@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blogs/diy/</loc>
+    <loc>https://ablades.github.io/blogs/diy/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blogs/projects/</loc>
+    <loc>https://ablades.github.io/blogs/projects/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blogs/projects/hugowebsite/</loc>
+    <loc>https://ablades.github.io/blogs/projects/hugowebsite/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blogs/tech/</loc>
+    <loc>https://ablades.github.io/blogs/tech/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blogs/</loc>
+    <loc>https://ablades.github.io/blogs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://ablades.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://ablades.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://ablades.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
